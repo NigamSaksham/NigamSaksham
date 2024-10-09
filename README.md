@@ -9,7 +9,7 @@
 
 - 📝 I often write articles on [studyisenjoyable.blogspot.com](studyisenjoyable.blogspot.com)
 
-- 📫 You can reach me **sakshamnigam24@gmail.com**
+- 📫 You can reach me at **sakshamnigam24+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
