@@ -7,10 +7,7 @@
 
 - 🌱 I’m currently learning **Python, C and DSA**
 
-- 📫 You can reach me at **sakshamnigam24+github@gmail.com**
-
-- 📝 I often write articles on [studyisenjoyable.blogspot.com](studyisenjoyable.blogspot.com)
-- 
+- 📝 I often write articles on <a href="www.studyisenjoyable.blogspot.com">Study Is Enjoyable</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nigamsaksham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigamsaksham" height="30" width="40" /></a>
