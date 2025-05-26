@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, C and DSA**
 
-- 📝 I have created my blog website <a href="https://www.learnwithsaksham.me">Learn With Saksham</a>
+- 📝 I have created my blog website also.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nigamsaksham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigamsaksham" height="30" width="40" /></a>
