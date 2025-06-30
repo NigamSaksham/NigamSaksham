@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigamsaksham&label=Profile%20views&color=0e75b6&style=flat" alt="nigamsaksham" /> </p>
 
-- 🌱 I’m currently learning **Python, C and DSA**
+- 🌱 I’m currently learning **DSA in Java**
+
+- I have knowledge of languages like Java, C and Python
 
 - 📝 I have created my blog website also.
 <h3 align="left">Connect with me:</h3>
