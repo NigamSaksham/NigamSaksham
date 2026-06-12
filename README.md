@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigamsaksham&label=Profile%20views&color=0e75b6&style=flat" alt="nigamsaksham" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning ** fundamentals of Computer Science**
 
 - I have knowledge of languages like Java, C and Python
 
-- 📝 I have created my blog website also.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nigamsaksham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigamsaksham" height="30" width="40" /></a>
